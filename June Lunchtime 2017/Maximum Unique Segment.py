@@ -21,4 +21,5 @@ for i in range(t):
                 sm += w[j]
         maxsum = sm if sm > maxsum else maxsum
     print(maxsum)
+    
         
